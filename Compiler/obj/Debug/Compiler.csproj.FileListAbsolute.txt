@@ -1,0 +1,27 @@
+c:\users\ivanov mihail\documents\visual studio 2015\Projects\Compiler\Compiler\bin\Debug\Compiler.exe.config
+c:\users\ivanov mihail\documents\visual studio 2015\Projects\Compiler\Compiler\bin\Debug\Compiler.exe
+c:\users\ivanov mihail\documents\visual studio 2015\Projects\Compiler\Compiler\bin\Debug\Compiler.pdb
+c:\users\ivanov mihail\documents\visual studio 2015\Projects\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+c:\users\ivanov mihail\documents\visual studio 2015\Projects\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+c:\users\ivanov mihail\documents\visual studio 2015\Projects\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+c:\users\ivanov mihail\documents\visual studio 2015\Projects\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+c:\users\ivanov mihail\documents\visual studio 2015\Projects\Compiler\Compiler\obj\Debug\Compiler.exe
+c:\users\ivanov mihail\documents\visual studio 2015\Projects\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Adelina\Desktop\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Adelina\Desktop\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Adelina\Desktop\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Adelina\Desktop\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Adelina\Desktop\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Adelina\Desktop\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Adelina\Desktop\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Adelina\Desktop\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Adelina\Desktop\Compiler\Compiler\bin\Debug\Compiler.pdb
+D:\Adelina Koleva\Pictures\ADI2\RU\4.2 Езикови процесори\compiler\Compiler\Compiler\bin\Debug\Compiler.exe.config
+D:\Adelina Koleva\Pictures\ADI2\RU\4.2 Езикови процесори\compiler\Compiler\Compiler\obj\Debug\Compiler.exe
+D:\Adelina Koleva\Pictures\ADI2\RU\4.2 Езикови процесори\compiler\Compiler\Compiler\obj\Debug\Compiler.pdb
+D:\Adelina Koleva\Pictures\ADI2\RU\4.2 Езикови процесори\compiler\Compiler\Compiler\bin\Debug\Compiler.exe
+D:\Adelina Koleva\Pictures\ADI2\RU\4.2 Езикови процесори\compiler\Compiler\Compiler\bin\Debug\Compiler.pdb
+D:\Adelina Koleva\Pictures\ADI2\RU\4.2 Езикови процесори\compiler\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+D:\Adelina Koleva\Pictures\ADI2\RU\4.2 Езикови процесори\compiler\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+D:\Adelina Koleva\Pictures\ADI2\RU\4.2 Езикови процесори\compiler\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+D:\Adelina Koleva\Pictures\ADI2\RU\4.2 Езикови процесори\compiler\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
